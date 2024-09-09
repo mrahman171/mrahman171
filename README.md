@@ -3,25 +3,14 @@
 
 ---
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ### 💫 About Me
 
-<div style="display: flex; align-items: center; justify-content: space-between; border: 1px solid #e1e4e8; padding: 20px; border-radius: 10px;">
-
-  <!-- About Me Content -->
-  <div style="flex: 1; padding-right: 20px;">
-    - 🌱 I’m currently learning **Advanced Next.js Development** and **Microservices with Nest.js**.  
-    - 👯 I’m looking to collaborate on **exciting web and mobile development projects**.  
-    - 💬 Ask me about **Next.js, Nest.js, Tailwind CSS, Flutter, and more**!  
-    - ⚡ Fun fact: I love **solving complex algorithms** and playing **chess** in my free time.  
-  </div>
-
-  <!-- Picture -->
-  <div style="flex: 1; text-align: center;">
-    <img alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-  </div>
-  
-</div>
-
+- 🌱 I’m currently learning **Advanced Next.js Development** and **Microservices with Nest.js**.
+- 👯 I’m looking to collaborate on **exciting web and mobile development projects**.
+- 💬 Ask me about **Next.js, Nest.js, Tailwind CSS, Flutter, and more**!
+- ⚡ Fun fact: I love **solving complex algorithms** and playing **chess** in my free time.
 
 ---
 
