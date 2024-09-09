@@ -79,9 +79,4 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrahman171&theme=radical" alt="Mrahman171's GitHub Streak" />
     </td>
   </tr>
-</table>
-
-
----
-
-⭐️ From Md. Abdur Rahman(#)
+</table
