@@ -8,7 +8,6 @@
 ### 💫 About Me
 
 - 🌱 I’m currently learning **Advanced Next.js Development** and **Microservices with Nest.js**.
-- 🔭 I’m working on **[Your Current Project](#)**.
 - 👯 I’m looking to collaborate on **exciting web and mobile development projects**.
 - 💬 Ask me about **Next.js, Nest.js, Tailwind CSS, Flutter, and more**!
 - ⚡ Fun fact: I love **solving complex algorithms** and playing **chess** in my free time.
@@ -50,32 +49,19 @@
 
 ---
 
-### 🌟 Featured Projects
-
-- 🚀 **[Project Name 1](#)**  
-  A brief description of the project and the tech stack used.
-
-- 🎨 **[Project Name 2](#)**  
-  A brief description of the project and the tech stack used.
-
-- 🔍 **[Project Name 3](#)**  
-  A brief description of the project and the tech stack used.
-
----
-
 ### 🌱 Currently Learning
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-0A66C2?style=for-the-badge&logo=microgen&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Advanced Authentication](https://img.shields.io/badge/-Advanced%20Authentication-FF6F00?style=for-the-badge&logo=key&logoColor=white)
+![Project Performance Optimization](https://img.shields.io/badge/-Project%20Performance%20Optimization-0A66C2?style=for-the-badge&logo=speedtest&logoColor=white)
+
 
 ---
 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-abdur-rahman171"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
