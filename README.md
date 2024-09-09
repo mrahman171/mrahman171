@@ -18,7 +18,7 @@
   
   <!-- Picture -->
   <div style="flex: 1; text-align: center;">
-    <img alt="Coding" width="400" src="/mnt/data/A_digital_illustration_of_a_person_coding_at_a_des.png" />
+    <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   </div>
 </div>
 ---
