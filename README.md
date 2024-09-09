@@ -5,22 +5,23 @@
 
 ### 💫 About Me
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-
-  <!-- About Me Content -->
-  - 🌱 I’m currently learning **Advanced Next.js Development** and **Microservices with Nest.js**.
-  - 👯 I’m looking to collaborate on **exciting web and mobile development projects**.
-  - 💬 Ask me about **Next.js, Nest.js, Tailwind CSS, Flutter, and more**!
-  - ⚡ Fun fact: I love **solving complex algorithms** and playing **chess** in my free time.
-    
-  </div>
+<div style="display: flex; align-items: center; justify-content: space-between;">
   
+  <!-- About Me Content -->
+  <div style="flex: 1; padding-right: 20px;">
+    - 🌱 I’m currently learning **Advanced Next.js Development** and **Microservices with Nest.js**.  
+    - 👯 I’m looking to collaborate on **exciting web and mobile development projects**.  
+    - 💬 Ask me about **Next.js, Nest.js, Tailwind CSS, Flutter, and more**!  
+    - ⚡ Fun fact: I love **solving complex algorithms** and playing **chess** in my free time.  
+  </div>
+
   <!-- Picture -->
   <div style="flex: 1; text-align: center;">
     <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
   </div>
+  
 </div>
+
 ---
 
 ### 🛠️ My Tech Stack
