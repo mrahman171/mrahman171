@@ -7,8 +7,7 @@
 
 ### 💫 About Me
 
-- 🌱 I’m currently learning **Advanced Flutter Development** and **Microservices with Nest.js**.
-- I'm a passionate **Full Stack Developer** 🚀 with experience in building web and mobile applications using **Next.js**, **Nest.js**, **MongoDB**, **Tailwind CSS**, **PHP**, **HTML5**, **Bootstrap**, and more. I'm always eager to learn new technologies and improve my skills.
+- 🌱 I’m currently learning **Advanced Next.js Development** and **Microservices with Nest.js**.
 - 🔭 I’m working on **[Your Current Project](#)**.
 - 👯 I’m looking to collaborate on **exciting web and mobile development projects**.
 - 💬 Ask me about **Next.js, Nest.js, Tailwind CSS, Flutter, and more**!
