@@ -1,7 +1,4 @@
 <h1 align="center">Hi there! 👋, I'm Md. Abdur Rahman</h1>
-<p align="center">
-  <a href="https://ma-rahman-portfolio.vercel.app/" target="_blank">Visit my Portfolio</a>
-</p>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3
 ---
 
@@ -17,7 +14,9 @@
 ---
 
 ### 🛠️ My Tech Stack
-
+<p align="center">
+  <a href="https://ma-rahman-portfolio.vercel.app/" target="_blank">Visit my Portfolio</a>
+</p>
 #### 🖥️ Frontend Development
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
