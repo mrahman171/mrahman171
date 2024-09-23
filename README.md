@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **exciting web and mobile development projects**.
 - 💬 Ask me about **Next.js, Nest.js, Tailwind CSS, Flutter, and more**!
 - ⚡ Fun fact: I love **solving complex algorithms** and playing **chess** in my free time.
-<p align="center">
+<p align="start">
   <a href="https://ma-rahman-portfolio.vercel.app/" target="_blank">Visit my Portfolio</a>
 </p>
 
