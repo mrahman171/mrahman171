@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 <h3 align="center">Portfolio Live</h3>
 <p align="center">
-  <a href="[https://your-portfolio-link.com](https://ma-rahman-portfolio.vercel.app/)" target="_blank">Visit my Portfolio</a>
+  <a href="https://ma-rahman-portfolio.vercel.app/" target="_blank">Visit my Portfolio</a>
 </p>
 ---
 
