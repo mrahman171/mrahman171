@@ -14,9 +14,6 @@
 ---
 
 ### 🛠️ My Tech Stack
-<p align="center">
-  <a href="https://ma-rahman-portfolio.vercel.app/" target="_blank">Visit my Portfolio</a>
-</p>
 #### 🖥️ Frontend Development
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
