@@ -1,6 +1,5 @@
 <h1 align="center">Hi there! 👋, I'm Md. Abdur Rahman</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
-<h3 align="center">Portfolio Live</h3>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3
 <p align="center">
   <a href="https://ma-rahman-portfolio.vercel.app/" target="_blank">Visit my Portfolio</a>
 </p>
