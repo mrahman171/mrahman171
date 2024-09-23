@@ -1,8 +1,8 @@
 <h1 align="center">Hi there! 👋, I'm Md. Abdur Rahman</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3
 <p align="center">
   <a href="https://ma-rahman-portfolio.vercel.app/" target="_blank">Visit my Portfolio</a>
 </p>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3
 ---
 
 <img align="right" alt="Coding" width="340" height="215" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
