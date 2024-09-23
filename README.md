@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="340" height="215" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
----
 
 ### 💫 About Me
 
@@ -10,6 +9,7 @@
 - 👯 I’m looking to collaborate on **exciting web and mobile development projects**.
 - 💬 Ask me about **Next.js, Nest.js, Tailwind CSS, Flutter, and more**!
 - ⚡ Fun fact: I love **solving complex algorithms** and playing **chess** in my free time.
+### Portfolio
 <p align="start">
   <a href="https://ma-rahman-portfolio.vercel.app/" target="_blank">Visit my Portfolio</a>
 </p>
