@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="340" height="215" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+---
+
+
 ### 💫 About Me
 
 - 🌱 I’m currently learning **Advanced Next.js Development** and **Microservices with Nest.js**.
